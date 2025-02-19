@@ -13,7 +13,4 @@
    <FileRef
       location = "group:Disk.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:DiskExample/DiskExample.xcodeproj">
-   </FileRef>
 </Workspace>
